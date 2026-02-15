@@ -1,0 +1,5 @@
+﻿Chỉ số,Logistic Regression,XGBoost,Lựa chọn
+Accuracy,0.3958,0.3522,LR (39.58% > 35.22%)
+Precision (Macro),0.40,0.35,LR (0.40 > 0.35)
+Recall (Macro),0.34,0.33,LR (0.34 ≈ 0.33)
+F1-Score (Weighted),0.3937,0.3365,LR (0.3937 > 0.3365)

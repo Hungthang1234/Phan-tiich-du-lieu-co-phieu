@@ -1,0 +1,6 @@
+﻿Thông số,Giá trị,Mô tả
+Giá khớp lệnh,Giá đóng cửa (EOD Close),Lệnh được xử lý vào cuối phiên giao dịch (16:00) tại giá chính thức đóng cửa
+Cơ chế khớp,T+0 (giả lập),Giả định lệnh khớp ngay trong ngày; thực tế HOSE là T+2 nhưng được đơn giản hóa cho khả thi
+Chi phí giao dịch (Phí),0.30% / lần,Tổng 0.30% cho mỗi vòng giao dịch (mua + bán) bao gồm phí môi giới (~0.10%) + thuế GTGT (~0.10%) + phí khác
+Ảnh hưởng phí,Trừ khỏi vốn giao dịch,Phí được tính và trừ vào vốn hiện có trước khi mua (giảm lượng cổ phiếu có thể mua)
+Slippage,Không tính,Giả định không có sự trượt giá do thực hiện lệnh (điều kiện lý tưởng)

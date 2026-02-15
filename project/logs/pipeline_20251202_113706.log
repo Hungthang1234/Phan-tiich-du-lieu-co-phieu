@@ -1,0 +1,10 @@
+Pipeline Log - 2025-12-02 11:37:06
+Project: C:\Users\ASUS\Desktop\KLTN\project
+================================================================================
+
+[SUCCESS] Bước 1: Chuẩn hóa dữ liệu & Tạo feature kỹ thuật
+[SUCCESS] Bước 2: Huấn luyện mô hình dự báo xu hướng
+[SUCCESS] Bước 3: Dự báo giá & Đánh giá (MAE, RMSE, MAPE)
+[SUCCESS] Bước 4: Backtest chiến lược giao dịch
+[SUCCESS] Bước 5: Vẽ biểu đồ tổng hợp
+[FAILED] Bước 6: Vẽ biểu đồ chi tiết theo từng mã

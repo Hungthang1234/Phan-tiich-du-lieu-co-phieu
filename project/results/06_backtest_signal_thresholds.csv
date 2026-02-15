@@ -1,0 +1,5 @@
+﻿Thông số,Giá trị,Mô tả
+Ngưỡng vào lệnh MUA,Xác suất ≥ 0.60,"Khi mô hình dự báo xác suất tăng ≥ 60%, tín hiệu mua (giữ vị thế)"
+Ngưỡng vào lệnh BÁN,Xác suất < 0.40,"Khi xác suất tăng < 40%, tín hiệu bán (không giữ vị thế, chuyển sang cash)"
+Vùng trung tính,0.40 ≤ Xác suất < 0.60,"Khi xác suất nằm trong khoảng này, duy trì vị thế hiện tại (không hành động)"
+Loại tín hiệu,Nhị phân (0/1),Chỉ có 2 trạng thái: nắm giữ cổ phiếu (1) hoặc không nắm giữ (0)

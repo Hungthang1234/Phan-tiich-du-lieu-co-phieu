@@ -1,0 +1,4 @@
+﻿Chiến lược,Mô tả,Mục đích
+Chiến lược dự báo (ML),Dựa trên tín hiệu từ mô hình Logistic Regression,Đánh giá hiệu suất của mô hình ML khi triển khai thực tế
+Buy & Hold (BH),Mua vào ngày đầu tiên và giữ đến hết giai đoạn,Benchmark tiêu chuẩn để so sánh; phản ánh chiến lược đầu tư thụ động
+Outperformance,Lợi nhuận ML - Lợi nhuận BH,Độ vượt trội của mô hình so với buy & hold; nếu âm = mô hình thua buy & hold

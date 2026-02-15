@@ -1,0 +1,5 @@
+﻿Thông số,Giá trị,Mô tả
+Vốn ban đầu,100 đơn vị (%),Chuẩn hóa để so sánh hiệu suất giữa các cổ phiếu khác nhau
+Giai đoạn backtest,2023-01-01 → 2024-12-31,Dữ liệu thực tế 2 năm gần nhất để đánh giá kỹ năng tiên đoán trên thị trường mới
+Tần suất giao dịch,Hàng ngày (EOD),"Khớp lệnh vào cuối ngày giao dịch, tại giá đóng cửa"
+Số lệnh tối đa,1 lệnh mở,Tại mỗi thời điểm chỉ nắm giữ 1 vị thế trên 1 mã cổ phiếu (fully invested hoặc fully cash)

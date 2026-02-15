@@ -1,0 +1,11 @@
+﻿Thông số,Giá trị,Mô tả
+N_estimators,100,Số lượng cây quyết định trong ensemble
+Max_depth,5,Độ sâu tối đa của mỗi cây (kiểm soát độ phức tạp)
+Learning_rate,0.1,Hệ số thu nhỏ (tốc độ học) để cải thiện tổng quát hóa
+Subsample,1.0,Tỷ lệ mẫu đào tạo dùng cho mỗi cây
+Colsample_bytree,1.0,Tỷ lệ feature dùng cho mỗi cây
+Objective,multi:softprob,Hàm mục tiêu cho phân loại đa lớp (xác suất)
+Eval_metric,mlogloss,Chỉ số đánh giá multi-class logarithmic loss
+Random_state,42,Hạt ngẫu nhiên để tái lập kết quả
+N_jobs,-1,Sử dụng tất cả nhân xử lý
+Verbosity,0,Không hiển thị log chi tiết

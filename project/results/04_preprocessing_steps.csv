@@ -1,0 +1,4 @@
+﻿Bước xử lý,Phương pháp,Mục đích
+Chuẩn hóa đặc trưng,StandardScaler,"Đưa tất cả đặc trưng về cùng tỷ lệ (trung bình 0, độ lệch chuẩn 1)"
+Điền NaN,Forward Fill → Backward Fill,Xử lý các giá trị bị thiếu trong chuỗi thời gian
+Chia tập dữ liệu,Theo thời gian (không shuffle),Bảo tồn tính chất chuỗi thời gian; tránh data leakage

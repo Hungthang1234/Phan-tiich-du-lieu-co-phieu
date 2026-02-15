@@ -1,0 +1,8 @@
+﻿Thông số,Giá trị,Mô tả
+Solver,lbfgs,Thuật toán tối ưu hóa cho bài toán phân loại đa lớp
+Max iterations,1000,Số lần lặp tối đa để hội tụ
+Random state,42,Hạt ngẫu nhiên để tái lập kết quả
+Multi-class,multinomial,Chiến lược xử lý với 3 lớp (Tăng/Đi ngang/Giảm)
+Penalty,L2,Chính quy hóa L2 để tránh overfitting
+C parameter,1.0,Nghịch đảo của độ mạnh chính quy (mặc định)
+N_jobs,-1,Sử dụng tất cả nhân xử lý
